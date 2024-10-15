@@ -35,3 +35,4 @@ plot(Passed_Bonds$percentage_for,Passed_Bonds$Amount, pch=20, xlab = 'margin a b
 
 #Line that best fits to show relation between cost and % of votes
 abline(lm(Passed_Bonds$percentage_for~Passed_Bonds$Amount),col='hotpink', lwd = 3) 
+hello hehehe
